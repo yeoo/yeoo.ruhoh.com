@@ -1,16 +1,16 @@
-title : __yeoo
-tagline: lost in world
+title : Blog Title
+tagline: Blog Tagline
 author :
-  name : p yeoo
-  email : yeoo@outlook.com
-  github : yeoo
-  twitter : yeoo
-  feedburner : yeoo
+  name : Firstname Lastname
+  email : blah@email.test
+  github : username
+  twitter : username
+  feedburner : feedname
 
 navigation :
   - archive.html
   - tags.html
   - categories.html
   - pages.html
-  - about.html
+  - about.md
   
