@@ -3,11 +3,7 @@
     "default" : [
       "bootstrap.min.css",
       "style.css"
-    ],
-   
-    "widgets" : {
-      "google_prettify" : "twitter-bootstrap.css"
-    }
+    ]
     
   },
 
