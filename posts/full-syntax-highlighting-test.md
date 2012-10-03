@@ -1,5 +1,5 @@
 ---
-title:full syntax highlighting test
+title: full syntax highlighting test
 date: '2012-10-03'
 description:
 categories:

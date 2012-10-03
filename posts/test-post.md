@@ -1,5 +1,5 @@
 ---
-title:
+title: test post
 date: '2012-10-03'
 description:
 categories:
