@@ -12,6 +12,10 @@
     ]
   },
   
+  "widgets" : {
+    "google_prettify" : "twitter-bootstrap.css"
+  },
+  
   "manifest" : {
     "author" : "yeoo",
     "website" : "http://yeoo.ruhoh.com"
