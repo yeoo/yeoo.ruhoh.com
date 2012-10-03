@@ -4,10 +4,10 @@ date: '2012-10-03'
 description:
 categories:
 ---
-<pre><code>
+<pre>
 // hdu 1028. Ignatius and the Princess III
 // yeoo
-#include <code><stdio.h></code>
+#include <stdio.h>
 
 int main() {
 	const int size = 121;
@@ -31,4 +31,4 @@ int main() {
 	}
 	return 0;
 }
-</code></pre>
+</pre>
