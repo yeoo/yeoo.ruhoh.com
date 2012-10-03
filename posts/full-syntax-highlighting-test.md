@@ -7,7 +7,7 @@ categories:
 <pre><code>
 // hdu 1028. Ignatius and the Princess III
 // yeoo
-#include <stdio.h>
+#include <pre><stdio.h></pre>
 
 int main() {
 	const int size = 121;
