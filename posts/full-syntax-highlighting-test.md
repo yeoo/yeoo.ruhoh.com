@@ -4,7 +4,7 @@ date: '2012-10-03'
 description:
 categories:
 ---
-<pre>
+<pre><code>
 // hdu 1028. Ignatius and the Princess III
 // yeoo
 #include <stdio.h>
@@ -14,7 +14,7 @@ int main() {
 	int n,i,j,k;
 	int c[size],d[size];
 	while (scanf("%d", &n) != EOF){
-		for (i=0; i<size; i++){
+		for (i = 0; i < size; i++){
 			d[i] = 0;
 			c[i] = 1;
 		}
@@ -31,4 +31,4 @@ int main() {
 	}
 	return 0;
 }
-</pre>
+</code></pre>
