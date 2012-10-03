@@ -6,7 +6,7 @@
     ],
    
     "widgets" : {
-      "google_prettify" : "sons-of-obsidian.css"
+      "google_prettify" : "default.css"
     }
     
   },
