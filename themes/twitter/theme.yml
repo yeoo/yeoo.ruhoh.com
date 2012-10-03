@@ -3,17 +3,22 @@
     "default" : [
       "bootstrap.min.css",
       "style.css"
-    ]
+    ],
+   
+    "widgets" : {
+      "google_prettify" : "twitter-bootstrap.css"
+    }
     
   },
 
   "javascripts" : {
     "default" : [
-    ]
-  },
-  
-  "widgets" : {
-    "google_prettify" : "twitter-bootstrap.css"
+    ],
+    
+    "widgets" : {
+      "google_prettify" : "prettify.js"
+    }
+    
   },
   
   "manifest" : {
